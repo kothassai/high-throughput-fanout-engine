@@ -1,0 +1,6 @@
+com/sairam/fanout/ingestion/FileIngestionService.class
+com/sairam/fanout/transform/Transformer.class
+com/sairam/fanout/transform/JsonTransformer.class
+com/sairam/fanout/orchestrator/Orchestrator.class
+com/sairam/fanout/FanoutApplication.class
+com/sairam/fanout/sink/MockSink.class

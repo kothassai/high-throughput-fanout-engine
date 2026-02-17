@@ -1,0 +1,6 @@
+/workspaces/high-throughput-fanout-engine/src/main/java/com/sairam/fanout/FanoutApplication.java
+/workspaces/high-throughput-fanout-engine/src/main/java/com/sairam/fanout/ingestion/FileIngestionService.java
+/workspaces/high-throughput-fanout-engine/src/main/java/com/sairam/fanout/orchestrator/Orchestrator.java
+/workspaces/high-throughput-fanout-engine/src/main/java/com/sairam/fanout/sink/MockSink.java
+/workspaces/high-throughput-fanout-engine/src/main/java/com/sairam/fanout/transform/JsonTransformer.java
+/workspaces/high-throughput-fanout-engine/src/main/java/com/sairam/fanout/transform/Transformer.java
